@@ -14,5 +14,9 @@ jobs:
         # Run the GitHub REadme Youtube Cards action
         steps:
             - uses: DenverColer1/github-readme-youtube-cards@main
+            id: youtube-cards
             with:
-                channel_id: UdbtUwRD3sqJa2RnQ11oDDg
+                channel_id: UCdbtUwRD3sqJa2RnQ11oDDg
+                comment_tag_name: YOUTUBE-CARDS
+            - run: echo OUTPUT '${{ steps.youtube-cards.outputs.markdown }}'
+            shell: bash
