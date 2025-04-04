@@ -1,0 +1,18 @@
+name: gitHub Readme YouTube Cards
+on:
+    scedule:
+       # At 12:00 AM, only on Friday
+       - cron: "0 * * * *" 
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        # Allow the job to commit to the repository
+        permissions:
+            contents: write
+        # Run the GitHub REadme Youtube Cards action
+        steps:
+            - uses: DenverColer1/github-readme-youtube-cards@main
+            with:
+                channel_id: UCdbtUwRD3sqJa2RnQ11oDDg
