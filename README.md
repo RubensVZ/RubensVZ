@@ -11,7 +11,7 @@
 
 Actualmente me encuentro en formación como desarrollador, con interés en la programación, bases de datos y desarrollo web. Me gusta aprender nuevas tecnologías y participar en proyectos que representen un reto.
 
-### 💻 Tecnologías que estoy aprendiendo
+## 💻 Tecnologías que estoy aprendiendo
 - Python, Java
 - HTML, CSS, JavaScript
 - Git y GitHub
@@ -31,7 +31,7 @@ Convertirme en un profesional capaz de crear soluciones tecnológicas eficientes
 </p></p></p>
 
 
-### Redes sociales
+## Redes sociales
 
 <p align="left"> </p> <a href="https://www.facebook.com/GZevallos07@hotmsil.co" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere el esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefiere el esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </imagen> </a> <a href="http://www.instagram.com/@GRubensVZ" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere el esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefiere el esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </imagen> </a> <a href="https://www.linkedin.com/in/@" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere el esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefiere el esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </imagen> </a> <a href="https://www.youtube.com/@G" target="_blank" rel="noreferrer"> <imagen> <source media="(prefiere el esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefiere el esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </imagen> </a>
 
