@@ -7,7 +7,7 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 
-## 👋 ¡Hola! Soy estudiante de Ingeniería de Sistemas
+## 👋 ¡Hola! Soy estudiante de Ingeniería de Sistemas de UC
 
 Actualmente me encuentro en formación como desarrollador, con interés en la programación, bases de datos y desarrollo web. Me gusta aprender nuevas tecnologías y participar en proyectos que representen un reto.
 
